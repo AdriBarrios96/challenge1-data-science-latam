@@ -32,3 +32,9 @@ Para visualizar y ejecutar el codigo por tu cuenta, puedes usar Google Colab sig
    git clone [https://github.com/AdriBarrios96/challenge1-data-science-latam.git](https://github.com/AdriBarrios96/challenge1-data-science-latam.git)
 2. Abre Google Colab, selecciona la opción "Abrir desde GitHub" y pega el enlace del repositorio.
 3. Ejecuta las celdas en orden. Asegurate de que las rutas a los archivos .csv apunten correctamente a los datos descargados.
+
+## 📊 Visualizaciones Destacadas
+
+Para facilitar la toma de decisiones, los datos fueron transformados en gráficos clave:
+Ingresos Totales por Tienda
+ingreso de datos.jpg
