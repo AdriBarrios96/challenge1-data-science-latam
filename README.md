@@ -37,4 +37,12 @@ Para visualizar y ejecutar el codigo por tu cuenta, puedes usar Google Colab sig
 
 Para facilitar la toma de decisiones, los datos fueron transformados en gráficos clave:
 Ingresos Totales por Tienda
-ingreso de datos.jpg
+https://github.com/AdriBarrios96/challenge1-data-science-latam/blob/main/ingreso%20de%20datos.jpg
+
+Distribución de Ventas por Categoría
+Un vistazo a cómo se divide el pastel de ventas en nuestras tiendas principales.
+https://github.com/AdriBarrios96/challenge1-data-science-latam/blob/main/ventas%20por%20categoria.jpg
+
+Relacion: Precio del Producto vs Costo de Envío
+¿Un producto más caro significa un envio más caro? Este grafico de dispersion explora esa correlacion
+https://github.com/AdriBarrios96/challenge1-data-science-latam/blob/main/relacion%20precio.jpg
